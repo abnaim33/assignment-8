@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Front End Development",
+        "price": "9,999 Tk",
+        "duration": "5 months",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi04lDc0NKU5dikpHNr6cpZXDmqPBziHEl-w&usqp=CAU",
+        "details": "Lorem Ipsum Dolor, Sit Amet Consectetur Adipisicing Elit. Cumque Ullam Omnis Odit Accusamus Doloremque? Cum Aliquid Unde Nulla. Vitae, Adipisci?",
+        "module": 50,
+        "hour": 100
+    },
+    {
+        "name": "Back End Development",
+        "price": "7,999 Tk",
+        "duration": "4 months",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi04lDc0NKU5dikpHNr6cpZXDmqPBziHEl-w&usqp=CAU",
+        "details": "Lorem Ipsum Dolor, Sit Amet Consectetur Adipisicing Elit. Cumque Ullam Omnis Odit Accusamus Doloremque? Cum Aliquid Unde Nulla. Vitae, Adipisci?",
+        "module": 40,
+        "hour": 70
+    },
+    {
+        "name": "Full Stack Development",
+        "price": "15,999 Tk",
+        "duration": "6 months",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi04lDc0NKU5dikpHNr6cpZXDmqPBziHEl-w&usqp=CAU",
+        "details": "Lorem Ipsum Dolor, Sit Amet Consectetur Adipisicing Elit. Cumque Ullam Omnis Odit Accusamus Doloremque? Cum Aliquid Unde Nulla. Vitae, Adipisci?",
+        "module": 70,
+        "hour": 120
+    },
+    {
+        "name": "Digital Marketing",
+        "price": "10,999 Tk",
+        "duration": "3 months",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi04lDc0NKU5dikpHNr6cpZXDmqPBziHEl-w&usqp=CAU",
+        "details": "Lorem Ipsum Dolor, Sit Amet Consectetur Adipisicing Elit. Cumque Ullam Omnis Odit Accusamus Doloremque? Cum Aliquid Unde Nulla. Vitae, Adipisci?",
+        "module": 30,
+        "hour": 50
+    },
+    {
+        "name": "Blockchain Development",
+        "price": "8,999 Tk",
+        "duration": "6 months",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi04lDc0NKU5dikpHNr6cpZXDmqPBziHEl-w&usqp=CAU",
+        "details": "Lorem Ipsum Dolor, Sit Amet Consectetur Adipisicing Elit. Cumque Ullam Omnis Odit Accusamus Doloremque? Cum Aliquid Unde Nulla. Vitae, Adipisci?",
+        "module": 50,
+        "hour": 100
+    },
+    {
+        "name": "Mobile App Development",
+        "price": "14,999 Tk",
+        "duration": "4 months",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi04lDc0NKU5dikpHNr6cpZXDmqPBziHEl-w&usqp=CAU",
+        "details": "Lorem Ipsum Dolor, Sit Amet Consectetur Adipisicing Elit. Cumque Ullam Omnis Odit Accusamus Doloremque? Cum Aliquid Unde Nulla. Vitae, Adipisci?",
+        "module": 50,
+        "hour": 100
+    },
+    {
+        "name": "Game Development",
+        "price": "19,999 Tk",
+        "duration": "7 months",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi04lDc0NKU5dikpHNr6cpZXDmqPBziHEl-w&usqp=CAU",
+        "details": "Lorem Ipsum Dolor, Sit Amet Consectetur Adipisicing Elit. Cumque Ullam Omnis Odit Accusamus Doloremque? Cum Aliquid Unde Nulla. Vitae, Adipisci?",
+        "module": 50,
+        "hour": 100
+    },
+    {
+        "name": "Cybar Security",
+        "price": "169,999 Tk",
+        "duration": "4 months",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi04lDc0NKU5dikpHNr6cpZXDmqPBziHEl-w&usqp=CAU",
+        "details": "Lorem Ipsum Dolor, Sit Amet Consectetur Adipisicing Elit. Cumque Ullam Omnis Odit Accusamus Doloremque? Cum Aliquid Unde Nulla. Vitae, Adipisci?",
+        "module": 50,
+        "hour": 100
+    }
+]

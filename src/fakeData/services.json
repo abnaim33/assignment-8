@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Front End Development",
+        "Price": "9,999 Tk",
+        "duration": "5 months",
+        "details": "Lorem Ipsum Dolor, Sit Amet Consectetur Adipisicing Elit. Cumque Ullam Omnis Odit Accusamus Doloremque? Cum Aliquid Unde Nulla. Vitae, Adipisci?"
+    },
+    {
+        "name": "Back End Development",
+        "Price": "7,999 Tk",
+        "duration": "4 months",
+        "details": "Lorem Ipsum Dolor, Sit Amet Consectetur Adipisicing Elit. Cumque Ullam Omnis Odit Accusamus Doloremque? Cum Aliquid Unde Nulla. Vitae, Adipisci?"
+    },
+    {
+        "name": "Full Stack Development",
+        "Price": "15,999 Tk",
+        "duration": "6 months",
+        "details": "Lorem Ipsum Dolor, Sit Amet Consectetur Adipisicing Elit. Cumque Ullam Omnis Odit Accusamus Doloremque? Cum Aliquid Unde Nulla. Vitae, Adipisci?"
+    },
+    {
+        "name": "Digital Marketing",
+        "Price": "10,999 Tk",
+        "duration": "3 months",
+        "details": "Lorem Ipsum Dolor, Sit Amet Consectetur Adipisicing Elit. Cumque Ullam Omnis Odit Accusamus Doloremque? Cum Aliquid Unde Nulla. Vitae, Adipisci?"
+    },
+    {
+        "name": "Blockchain Development",
+        "Price": "8,999 Tk",
+        "duration": "6 months",
+        "details": "Lorem Ipsum Dolor, Sit Amet Consectetur Adipisicing Elit. Cumque Ullam Omnis Odit Accusamus Doloremque? Cum Aliquid Unde Nulla. Vitae, Adipisci?"
+    },
+    {
+        "name": "Mobile App Development",
+        "Price": "14,999 Tk",
+        "duration": "4 months",
+        "details": "Lorem Ipsum Dolor, Sit Amet Consectetur Adipisicing Elit. Cumque Ullam Omnis Odit Accusamus Doloremque? Cum Aliquid Unde Nulla. Vitae, Adipisci?"
+    },
+    {
+        "name": "Game Development",
+        "Price": "19,999 Tk",
+        "duration": "7 months",
+        "details": "Lorem Ipsum Dolor, Sit Amet Consectetur Adipisicing Elit. Cumque Ullam Omnis Odit Accusamus Doloremque? Cum Aliquid Unde Nulla. Vitae, Adipisci?"
+    },
+    {
+        "name": "Cybar Security",
+        "Price": "169,999 Tk",
+        "duration": "4 months",
+        "details": "Lorem Ipsum Dolor, Sit Amet Consectetur Adipisicing Elit. Cumque Ullam Omnis Odit Accusamus Doloremque? Cum Aliquid Unde Nulla. Vitae, Adipisci?"
+    }
+]
